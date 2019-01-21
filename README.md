@@ -1,4 +1,4 @@
-# SSL-
+# SSL/HTTPS Local development
 Quickly generate HTTPS certificate for local development 
 
 1. Clone this repository and `cd` into it:
